@@ -1,0 +1,34 @@
+.box{
+border: black;
+border-radius: 5%;
+background-color: #f08f8f;
+align-items: center;
+margin: auto;
+padding: 20px;
+height: 200PX;
+width: 300px;
+justify-content: center;
+box-shadow:0 0 10px black;
+
+
+
+}
+body{
+ font-family: Arial, Helvetica, sans-serif;
+ text-align: center;
+width: 100px;
+margin-left: 200px; 
+margin-top: 200px;
+color: black;
+background-color: aqua;
+
+
+}
+#table{
+    
+    margin-top: 170px;
+    background-color: aliceblue;
+    margin-left: 100px;
+    width: 110px;
+    box-shadow: 0 0 10px;
+}
